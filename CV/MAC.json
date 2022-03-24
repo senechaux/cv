@@ -1,0 +1,58 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Angel",
+      "surnames": "Roldán",
+      "title": "Software developer and manager",
+      "description": "",
+      "location": {
+        "notes": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/angelroldan/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/senechaux/"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/senechaux"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/angelroldan/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "React Native",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
